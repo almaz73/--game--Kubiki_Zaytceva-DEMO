@@ -1,4 +1,5 @@
-[ДЕМО](http://fmap.ru/games/game/BeginCounter/index.html) 
+
+&#9822; [ДЕМО](http://fmap.ru/games/game/naberiBukvy/index.html) 
 ======
 
 # Игра "Складовой словарь - набери слово"
