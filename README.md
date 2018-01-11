@@ -1,7 +1,8 @@
+[ДЕМО](http://fmap.ru/games/game/BeginCounter/index.html) 
+======
+
 # Игра "Складовой словарь - набери слово"
 Это игра для детей 3-7 лет для обучения чтению и письму основанный на методике Зайцева.
 
 Игра реализована на react <br/>
 Для локального запуска игры в папке нужно набрать команду #gulp watch
-
-<a href="http://fmap.ru/games/game/BeginCounter/index.html">DEMO </a>
