@@ -1,5 +1,5 @@
 
-&#9822; [ДЕМО](http://fmap.ru/games/game/naberiBukvy/index.html) 
+&#9822; [ДЕМО](http://fmap.ru/games/cubicZaitseva) 
 ======
 
 # Игра "Складовой словарь - набери слово"
